@@ -1,0 +1,37 @@
+	
+body{margin:20px 20 20;
+    border:4px;
+	background:rgb(253, 249, 244);
+	background:url(1.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat; 
+	background-size:cover;
+	margin-top:30px;
+	margin-bottom:30px;
+	margin-right:130px;
+	margin-left: 30px;}
+	
+h1{color:saddlebrown;
+	font-size:300%;
+	font-style: italic;}
+
+
+h2 {color:darkorange;}
+   
+h3 {color:#DAA520;}  
+
+.navegador{
+	position: relative;
+	left: 1330px;}
+
+.tabla {
+	color: rgb(139,69,19);
+	font-weight: bold;
+	font-style: italic;
+	font-size:130%;}
+
+.columna_a{	font-weight: bold;}
+
+.columna_b{	font-style: italic;}
+
+
